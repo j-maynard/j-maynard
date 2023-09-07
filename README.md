@@ -9,25 +9,7 @@ Hi, my name is Jamie and I am a [full stack developer](https://handbook.gitlab.c
 
 ## Connect with me
 
-<table>
-<tr>
-<td>
-<a href="https://github.com/j-maynard"><img src="https://img.shields.io/badge/-GitHub-000000?&style=plastic&logo=GitHub&logoColor=white" height="25" style="height: 25px" /></a>
-</td>
-<td>
-<a href="https://gitlab.com/jamiemaynard"><img src="https://img.shields.io/badge/-GitLab-380D75?&style=plastic&logo=GitLab&logoColor=white" height="25" style="height: 25px" /></a>
-</td>
-<td>
-<a href="https://www.linkedin.com/in/jamiemaynard/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=plastic&logo=LinkedIn&logoColor=white" height="25" style="height: 25px" /></a>
-</td>
-<td>
-<a href="mailto:jmaynard@gitlab.com"><img src="https://img.shields.io/badge/Email-EA4335?&style=plastic&logo=Gmail&logoColor=white" height="25" style="height: 25px" /></a>
-</td>
-<td>
-<a href="https://calendly.https://calendly.com/jamiemaynard/30min"><img align="left" src="https://img.shields.io/badge/Schedule a Meeting-4285F4?&style=plastic&logo=Google Calendar&logoColor=white" height="25" style="height: 25px" /></a>
-</td>
-</tr>
-</table>
+<a href="https://github.com/j-maynard"><img src="https://img.shields.io/badge/-GitHub-000000?&style=plastic&logo=GitHub&logoColor=white" height="25" style="height: 25px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/jamiemaynard"><img src="https://img.shields.io/badge/-GitLab-380D75?&style=plastic&logo=GitLab&logoColor=white" height="25" style="height: 25px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/jamiemaynard/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=plastic&logo=LinkedIn&logoColor=white" height="25" style="height: 25px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:jmaynard@gitlab.com"><img src="https://img.shields.io/badge/Email-EA4335?&style=plastic&logo=Gmail&logoColor=white" height="25" style="height: 25px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://calendly.https://calendly.com/jamiemaynard/30min"><img src="https://img.shields.io/badge/Schedule a Meeting-4285F4?&style=plastic&logo=Google Calendar&logoColor=white" height="25" style="height: 25px" /></a>
 
 ## About Me
 
