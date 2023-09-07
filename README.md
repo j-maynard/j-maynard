@@ -55,11 +55,12 @@ I am fairly approachable and welcome Coffee Chats.
 
 For more details generally look at the [Handbook Roadmap](https://handbook.gitlab.com/about/roadmap/)
 
-### My skills
+## My skills
 
 My skillset certainly eclectic but lends itself strongly to to technical.  I'm a versitile software developer who is as comfortable working on Frontend systems as Backend systems.  I have a resonable amount of DevOps skills thrown in to the mix and can work my way round a database if I need to.  I have working understanding of the following languages:
 
 <table>
+   <tbody>
     <tr>
         <td>Java</td>
         <td>Ruby</td>
@@ -85,34 +86,22 @@ My skillset certainly eclectic but lends itself strongly to to technical.  I'm a
         <td>JSON</td>
         <td>XML</td>
     </tr>
+   </tbody>
 </table>
 
 As I said I am a jack of all trades and a master of none.  This makes me a generalist and my greatest asset is that I am quick learner and I learn by doing.
 
-### Working with me
+## Previous work
 
-I'm based in the UK and as such my working hours are anywhere between 8am and 7pm.  I have marked time out for Breakfast, Lunch, Dinner, the Gym and Swimming.  Unless I am out I'll normally accept meetings anytime up to 9:30pm UK time Monday - Thursday.  At GitLab we [don't do meetings on Friday](https://handbook.gitlab.com/handbook/communication/#focus-fridays)
+Prior to GitLab I worked for Government Digital Services (GDS) in London working on the doomed Verify program and the subsquent OneLogin for Government program.  My skills at GDS focused on Ruby and Java as their stack tended to be Ruby on the Frontend and Java on the Backend.  In the OneLogin for Governement project this switched to a TypeScript frontend with a mix of TypeScript and Java on the Backend.  My other work at GDS covered testing our content for accessibility issues and trying to get those issues rectified.
 
-The majority of my workflow is done through Slack and my primary channels are: 
+Prior to that I've worked for Consultancy and outsourcing firm CGI, EMEA Duracell Licensee PSA Parts (London) and Cory Brothers shipping and prior to that I was at Univeristy as a mature student acing a computer science degree anything prior to this is ancient hisoty but I can say I have also done training and development, training co-ordinator work, emergency response call handling, customer service and insurance sales.
 
-<table>
-<tr>
-<td>
-<a href="https://gitlab.slack.com/archives/CN7MPDZF0"><img src="https://img.shields.io/badge/-%23chief--of--staff--team-380D75?&style=plastic&logo=Slack&logoColor=white" /></a>
-</td>
-<td>
-<a href="https://gitlab.slack.com/archives/CKGUGVDNX"><img src="https://img.shields.io/badge/-%23handbook--updates-380D75?&style=plastic&logo=Slack&logoColor=white" /></a>
-</td>
-<td>
-<a href="https://gitlab.slack.com/archives/C81PT2ALD"><img src="https://img.shields.io/badge/-%23handbook-380D75?&style=plastic&logo=Slack&logoColor=white" /></a>
-</td>
-<td>
-<a href="https://gitlab.slack.com/archives/C02GABPC4UV"><img src="https://img.shields.io/badge/-%23internal--handbook-380D75?&style=plastic&logo=Slack&logoColor=white" /></a>
-</td>
-</tr>
-</table>
+## Working with me
 
-Supporting [my teams KPIs](https://handbook.gitlab.com/handbook/ceo/chief-of-staff-team/performance-indicators/#percent-of-sent-slack-messages-that-are-not-dms) I prefer to be mentioned in one of the above channels rather than messaged.  This plays in to [GitLabs Values](https://handbook.gitlab.com/values) around [transparancy](https://handbook.gitlab.com/values/#transparency) and [Collaboration](https://handbook.gitlab.com/values/#collaboration).
+I'm based in the UK and as such my working hours are anywhere between 8am and 7pm.  I have marked time out for Breakfast, Lunch, Dinner, the Gym and Swimming.  Unless I am out I'll normally accept meetings anytime up to 9:30pm UK time Monday - Thursday.  At GitLab we [don't do meetings on Friday](https://handbook.gitlab.com/handbook/communication/#focus-fridays) and this equally applies to the rest of my working life.  I don't do meetings on Friday unless its down the pub for a friendly chat over a cool cola.
+
+The majority of my workflow is done through Slack at GitLab but I can also be found on OutInTech and QueerCode slack instances as well as on Discord.
 
 If you're outside the company then I recommend raising an issue if its about one of the projects to which I am DRI and either assigning the task to me or mentioning me.  If not send an e-mail.
 
@@ -120,9 +109,9 @@ I enjoy pairing when the opportunity presents.  I don't mind the odd meeting to 
 
 I am not affraid to say I don't know.  However if I don't know do expect me to go off and try to work out the answer.  I am a little chaotic and a little loud.  If I am to loud just let me know.
 
-### My Setups
+## My Setups
 
-I have 2 work machines (more by luck than anything else).  They are:
+I have 2 GitLab supplied work machines (more by luck than anything else).  They are:
 
 * 13" M1 MacBook Pro (M1, 16GB Ram, 256GB Hard Disk)
 * 16" M1 MacBook Pro (M1 Max, 32GB RAM, 512GB Hard Disk)
@@ -133,19 +122,19 @@ I use the 13" Pro for travelling, working away from home and often carrying arou
 
 Now for my main machine... For that I use the 16" Pro for my Desk as my main work machine hooked up to 3 32" 4K Monitors on a sit/stand desk. The rest of my desk setup is as follow: 
 
-* [Keychrone Q1](https://www.keychron.uk/products/keychron-q1-qmk-custom-mechanical-keyboard-iso-layout-collection) 
-* [Logitech MX Master 3S](https://www.logitech.com/en-gb/products/mice/mx-master-3s-mac-bluetooth-mouse.910-006572.html). 
-* [Magic Trackpad](https://www.apple.com/uk/shop/product/MK2D3Z/A/magic-trackpad-white-multi-touch-surface)
-* [External TouchID Button](https://hackaday.com/2022/12/26/standalone-touch-id-for-your-desktop-mac/)
-* [StreamDeck V1](https://www.amazon.co.uk/Elgato-10GAA9901-Stream-Deck/dp/B06XKNZT1P/ref=asc_df_B06XKNZT1P)
-* [USB 2.0 extension cradle](https://www.amazon.co.uk/gp/product/B01EI4X0A0/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8)
-* [YubiKey 5 NFC FIPS](https://www.yubico.com/gb/product/yubikey-5-nfc-fips/).
-* [Razer Kiyo Pro](https://www.razer.com/gb-en/streaming-cameras/razer-kiyo-pro)
-* [Razer Nommo Chroma Speakers](https://www.amazon.co.uk/Razer-Nommo-Chroma-Rear-Facing-Automatic/dp/B078XY4LTV)
-* [Razer Firefly V2 Mousemat](https://www.razer.com/gb-en/gaming-mouse-mats/razer-firefly-v2)
-* [Razer Kraken Kitty Ears Edition Headset](https://www.amazon.co.uk/Razer-Kraken-Kitty-Gaming-Headset-Classic-Black/dp/B07XYPXB9P/ref=asc_df_B07XYPXB9P)
+- [Keychrone Q1](https://www.keychron.uk/products/keychron-q1-qmk-custom-mechanical-keyboard-iso-layout-collection) 
+- [Logitech MX Master 3S](https://www.logitech.com/en-gb/products/mice/mx-master-3s-mac-bluetooth-mouse.910-006572.html). 
+- [Magic Trackpad](https://www.apple.com/uk/shop/product/MK2D3Z/A/magic-trackpad-white-multi-touch-surface)
+- [External TouchID Button](https://hackaday.com/2022/12/26/standalone-touch-id-for-your-desktop-mac/)
+- [StreamDeck V1](https://www.amazon.co.uk/Elgato-10GAA9901-Stream-Deck/dp/B06XKNZT1P/ref=asc_df_B06XKNZT1P)
+- [USB 2.0 extension cradle](https://www.amazon.co.uk/gp/product/B01EI4X0A0/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8)
+- [YubiKey 5 NFC FIPS](https://www.yubico.com/gb/product/yubikey-5-nfc-fips/).
+- [Razer Kiyo Pro](https://www.razer.com/gb-en/streaming-cameras/razer-kiyo-pro)
+- [Razer Nommo Chroma Speakers](https://www.amazon.co.uk/Razer-Nommo-Chroma-Rear-Facing-Automatic/dp/B078XY4LTV)
+- [Razer Firefly V2 Mousemat](https://www.razer.com/gb-en/gaming-mouse-mats/razer-firefly-v2)
+- [Razer Kraken Kitty Ears Edition Headset](https://www.amazon.co.uk/Razer-Kraken-Kitty-Gaming-Headset-Classic-Black/dp/B07XYPXB9P/ref=asc_df_B07XYPXB9P)
 
-### My Software Choices
+## My Software Choices
 
 I run the same software setup on both machines using my personal DotFiles repo to share as much configuration as I can.
 
