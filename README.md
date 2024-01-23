@@ -1,63 +1,22 @@
 # 👋 Hi, I’m @j-maynard...
 
-**Keeper of Tomes and Mysteries at GitLab**.   
-[Full Stack Developer](https://handbook.gitlab.com/job-families/engineering/development/fullstack/#fullstack-engineer-handbook) at GitLab
+Full Stack Developer
 
 ## Introductions
 
-Hi, my name is Jamie and I am a [full stack developer](https://handbook.gitlab.com/job-families/engineering/development/fullstack/#fullstack-engineer-handbook) at [GitLab](http://about.gitlab.com).  I am the *Keeper of Tomes and Mystieres* as I am the [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) and Developer responsible for [GitLab's handbook](https://handbook.gitlab.com) projects. 
+Hi, my name is Jamie and by trade I am a full stack developer with a passion for opensource development.  Currently I am looking for work and muy profile is here to show projects I am working on while I find something new.  It's also helpful to be able to contribute to upstream opensource projects.
 
 ## Connect with me
 
-<a href="https://github.com/j-maynard"><img src="https://img.shields.io/badge/-GitHub-000000?&style=plastic&logo=GitHub&logoColor=white" height="25" style="height: 25px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/jamiemaynard"><img src="https://img.shields.io/badge/-GitLab-380D75?&style=plastic&logo=GitLab&logoColor=white" height="25" style="height: 25px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/jamiemaynard/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=plastic&logo=LinkedIn&logoColor=white" height="25" style="height: 25px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:jmaynard@gitlab.com"><img src="https://img.shields.io/badge/Email-EA4335?&style=plastic&logo=Gmail&logoColor=white" height="25" style="height: 25px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://calendly.https://calendly.com/jamiemaynard/30min"><img src="https://img.shields.io/badge/Schedule a Meeting-4285F4?&style=plastic&logo=Google Calendar&logoColor=white" height="25" style="height: 25px" /></a>
+<a href="https://github.com/j-maynard"><img src="https://img.shields.io/badge/-GitHub-000000?&style=plastic&logo=GitHub&logoColor=white" height="25" style="height: 25px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/jamiemaynard/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=plastic&logo=LinkedIn&logoColor=white" height="25" style="height: 25px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:punkyideas@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?&style=plastic&logo=Gmail&logoColor=white" height="25" style="height: 25px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://calendly.com/j-maynard/30min"><img src="https://img.shields.io/badge/Schedule a Meeting-4285F4?&style=plastic&logo=Google Calendar&logoColor=white" height="25" style="height: 25px" /></a>
 
 ## About Me
 
 I am a punky goth metal head (The mohawk is real)  Out and about I am mostly found wearing Kilts and Big Boots.  I am a passionate technologist with a passion for Software Development and Open Source.  I am frequently trying to expand my knoweldge and develop my skills which makes being a full stack developer a good fit for me.
 
-## Me at Gitlab
-
-Professionally I am a full stack deevloper (jack of all trades, master of none) charged with looking after the Handbook at GitLab.  I am part of GitLabs [Chief of Staff Team (CoST)](https://handbook.gitlab.com/handbook/ceo/chief-of-staff-team/).  My team is a cross functional team in that we take on inuititives which don't fit in any one single part of the organisation.  This is a good way to look at the Handbook.  It used and contributed to by the whole organisation and as such doesn't belong to any one part of the organisation.
-
-I spend my days generally helping with merge requests (MRs), working on Handbook Issues and tyring to improve the user experience of the Handbook.  My big overriding project at the moment is migrating the Handbooks content from `about.gitlab.com` to `handbook.gitlab.com`.
-
-I try to embrace [GitLabs Values](https://handbook.gitlab.com/values) whenever I can and in everything I do.  I am also pretty passionate about OpenSource and technology in general.
-
-I am fairly approachable and welcome Coffee Chats.
-
-### My current projects and repos
-
-#### Repos
-
-* [New GitLab Handbook](https://handbook.gitlab.com)
-    * **Repo:** https://gitlab.com/gitlab-com/content-sites/handbook/
-    * **Issues:** https://gitlab.com/gitlab-com/content-sites/handbook/-/issues/
-* [About site handbook](https://about.gitlab.com/handbook)
-    * **Repo:** https://gitlab.com/gitlab-com/www-gitlab-com
-    * **Issues:** Please use the new handbook for issues
-* [Internal Handbook](https://internal.gitlab.com)
-    * **Repo:** https://gitlab.com/internal-handbook/internal-handbook.gitlab.io
-    * **Issues:** 
-        * Please use the new public handbook for issues preferably
-        * https://gitlab.com/internal-handbook/internal-handbook.gitlab.io/-/issues/
-* GitLab Docsy/Hugo Theme
-    * **Repo:** https://gitlab.com/gitlab-com/content-sites/docsy-gitlab
-    * **Issues:** 
-        * Please use the new public handbook for issues preferably
-        * https://gitlab.com/gitlab-com/content-sites/docsy-gitlab/-/issues
-
-#### Projects
-
-* **Handbook Migration** - I'm currently migrating all the handbook content from `www-gitlab-com` to the new handbook site.
-* **Handbook Support** - Trying to improve handbook support processes to make it easier for team members and the community to contribute to the Handbook
-* **Improved Handbook Search** - Making search work better on the handbook so people don't have to resort to Google to try to find the pages they want
-* **Handbook Engagement** - I'm starting a program of handbook Engagement activities improve transparence and collaboration on the handbook.  Starting with public issues triage streaming and a monthly public Handbook AMA.  Hopefully starting in October.
-
-For more details generally look at the [Handbook Roadmap](https://handbook.gitlab.com/about/roadmap/)
-
 ## My skills
 
-My skillset certainly eclectic but lends itself strongly to to technical.  I'm a versitile software developer who is as comfortable working on Frontend systems as Backend systems.  I have a resonable amount of DevOps skills thrown in to the mix and can work my way round a database if I need to.  I have working understanding of the following languages:
+My skillset is certainly eclectic but lends itself strongly to the technical.  I'm a versitile software developer who is as comfortable working on Frontend systems as Backend systems.  I have a resonable amount of DevOps skills thrown in to the mix and can work my way round a database if I need to.  I have working understanding of the following languages:
 
 <table>
    <tbody>
@@ -89,38 +48,56 @@ My skillset certainly eclectic but lends itself strongly to to technical.  I'm a
    </tbody>
 </table>
 
-As I said I am a jack of all trades and a master of none.  This makes me a generalist and my greatest asset is that I am quick learner and I learn by doing.
+I like to say I am a jack of all trades and a master of none.  This makes me a generalist and my greatest asset is that I am quick learner and I learn by doing.  It also means that when I am working on a project I can consider the best tool or language for a job rather than having a "this languague is the only way" mentality. 
 
 ## Previous work
 
-Prior to GitLab I worked for Government Digital Services (GDS) in London working on the doomed Verify program and the subsquent OneLogin for Government program.  My skills at GDS focused on Ruby and Java as their stack tended to be Ruby on the Frontend and Java on the Backend.  In the OneLogin for Governement project this switched to a TypeScript frontend with a mix of TypeScript and Java on the Backend.  My other work at GDS covered testing our content for accessibility issues and trying to get those issues rectified.
+Really my CV can be viewed on my [LinkedIn Profile](https://www.linkedin.com/in/jamiemaynard/) but I thought it was helpful to have a bit of a technical view of previous work and previous projects I have worked on.
 
-Prior to that I've worked for Consultancy and outsourcing firm CGI, EMEA Duracell Licensee PSA Parts (London) and Cory Brothers shipping and prior to that I was at Univeristy as a mature student acing a computer science degree anything prior to this is ancient hisoty but I can say I have also done training and development, training co-ordinator work, emergency response call handling, customer service and insurance sales.
+### GitLab
+
+At GitLab I worked as the sole Handbook engineer.  The work consisted of looking after their legacy handbook repo, their internal handbook and new public handbook as well as migrating their legacy handbook content and ruby code to their new public handbook site.  This included migrating all the cotnent and converting all the Ruby code into Go templating code, building new CI/CD pipelines and automating all the things. 
+
+### Government Digital Service (GDS)
+
+At GDS I worked on Verify and the subsquent OneLogin for Government programs.  For the most part my skills at GDS focused on Ruby and Java as their stack tended to be Ruby on the Frontend and Java on the Backend especially on Verify.  In the OneLogin for Governement project this switched to a TypeScript frontend with a mix of TypeScript and Java on the Backend.  I advocated hard to use the best languague for the target platform.  Java and AWS Lambda aren't the easiest or fastest of bedfellows so my teams Lambda projects were written in TypeScript.
+
+My other work at GDS covered testing content for accessibility issues and trying to get those issues rectified.
+
+GDS also threw me in at the deepend when it came to Ruby.  I came as a Java Developer, my first project was a ruby project where I had to workout how to integrate Rails with AWS Cognito for User Managment the inital output form that work is still in my GitHub.
+
+### Other Work
+
+Prior to GDS and GitLab I've worked for Consultancy and outsourcing firm CGI as a Java Developer, EMEA Duracell Licensee PSA Parts (London) and Cory Brothers shipping.
+
+### University and further back
+
+I attended Univeristy as a mature student in my early 30's and studied a computer science degree which was awesome fun.  I achieved what my persoanl tutor in my first year said wasn't possible when I walked away with a frist class honours degree.
+
+I had a life prior to uni  which was mostly non-technical but I can say I have also done training and development, training co-ordinator work, emergency response call handling, customer service and insurance sales.  This built up soft skills which I still rely on now.
 
 ## Working with me
 
-I'm based in the UK and as such my working hours are anywhere between 8am and 7pm.  I have marked time out for Breakfast, Lunch, Dinner, the Gym and Swimming.  Unless I am out I'll normally accept meetings anytime up to 9:30pm UK time Monday - Thursday.  At GitLab we [don't do meetings on Friday](https://handbook.gitlab.com/handbook/communication/#focus-fridays) and this equally applies to the rest of my working life.  I don't do meetings on Friday unless its down the pub for a friendly chat over a cool cola.
+I'm based in the UK and as such my working hours are anywhere between 8am and 7pm.  I have marked time out in my calendar for Breakfast, Lunch, Dinner, the Gym and Swimming.  Unless I am out I'll normally accept meetings anytime Monday - Friday up until 9:00pm.  You can use the [Calendarly link](https://calendly.com/j-maynard/30min) to drop a meeting in my Google Calendar.
 
-The majority of my workflow is done through Slack at GitLab but I can also be found on OutInTech and QueerCode slack instances as well as on Discord.
+I can be found on Slack (Out in Tech, GDS Alumni and Queercode) and on Discord.
 
-If you're outside the company then I recommend raising an issue if its about one of the projects to which I am DRI and either assigning the task to me or mentioning me.  If not send an e-mail.
+I enjoy pairing when the opportunity presents and I don't mind the odd meeting to get things resolved quickly.
 
-I enjoy pairing when the opportunity presents.  I don't mind the odd meeting to get things resolved quickly
+I am not affraid to say I don't know.  However if I don't know do expect me to go off and try to work out the answer.  I am a little chaotic and a little loud.  If I am to loud just let me know.  Unusally for a software developer I sit on the extraverted side of things.
 
-I am not affraid to say I don't know.  However if I don't know do expect me to go off and try to work out the answer.  I am a little chaotic and a little loud.  If I am to loud just let me know.
+## My Working Setups
 
-## My Setups
-
-I have 2 GitLab supplied work machines (more by luck than anything else).  They are:
+I have 3 MacBook Pros
 
 * 13" M1 MacBook Pro (M1, 16GB Ram, 256GB Hard Disk)
 * 16" M1 MacBook Pro (M1 Max, 32GB RAM, 512GB Hard Disk)
 
-"2 Laptops!?  Why?!" - I hear you cry.  Well it just happened for a start but actually I have found proper utility in having 2.
+"2 Laptops!?  Why?!" - I hear you cry.  Well it just happened for a start but actually I have found proper utility in having each of them.
 
-I use the 13" Pro for travelling, working away from home and often carrying around the house.  I love the protability of this little machine.  Its not a powerhouse but it does a good job when I am on the go.  I also carry with me a [YubiKey 5c NFC FIP](https://www.yubico.com/gb/product/yubikey-5c-nfc-fips/), a USB-C Multiport Hub, Magic Mouse and a 60W MacBook Pro Charger, in a very small bag.  This is also often carried with my person laptop(s).
+I use the 13" Pro for travelling, working away from home and often carrying around the house.  I love the protability of this little machine.  Its not a powerhouse but it does a good job when I am on the go.  I also carry with me a [YubiKey 5c NFC FIP](https://www.yubico.com/gb/product/yubikey-5c-nfc-fips/), a USB-C Multiport Hub, Magic Mouse and a 60W MacBook Pro Charger, in a very small bag.
 
-Now for my main machine... For that I use the 16" Pro for my Desk as my main work machine hooked up to 3 32" 4K Monitors on a sit/stand desk. The rest of my desk setup is as follow: 
+Now for my main machine... For that I use the 16" Pro with 512GB Hard Disk for my Desk as my main work machine hooked up to 3 32" 4K Monitors on a sit/stand desk. The rest of my desk setup is as follow: 
 
 - [Keychrone Q1](https://www.keychron.uk/products/keychron-q1-qmk-custom-mechanical-keyboard-iso-layout-collection) 
 - [Logitech MX Master 3S](https://www.logitech.com/en-gb/products/mice/mx-master-3s-mac-bluetooth-mouse.910-006572.html). 
@@ -133,6 +110,7 @@ Now for my main machine... For that I use the 16" Pro for my Desk as my main wor
 - [Razer Nommo Chroma Speakers](https://www.amazon.co.uk/Razer-Nommo-Chroma-Rear-Facing-Automatic/dp/B078XY4LTV)
 - [Razer Firefly V2 Mousemat](https://www.razer.com/gb-en/gaming-mouse-mats/razer-firefly-v2)
 - [Razer Kraken Kitty Ears Edition Headset](https://www.amazon.co.uk/Razer-Kraken-Kitty-Gaming-Headset-Classic-Black/dp/B07XYPXB9P/ref=asc_df_B07XYPXB9P)
+- [1TB SanDisk Extreme SSD](https://www.amazon.co.uk/dp/B0C59G4TLQ)
 
 ## My Software Choices
 
@@ -140,15 +118,13 @@ I run the same software setup on both machines using my personal DotFiles repo t
 
 My current IDE of Choice is [Nova by Panic](https://nova.app/) or [NeoVim](https://neovim.io/) (with [AstroVim](https://astronvim.com/) plugin collection).  My other regular software is:
 
-* Google Chrome (I've tried both Arc and Safari but still end up at Chrome)
+* Google Chrome (I've tried both Arc and Safari but still ended up back at Chrome)
 * Parallels Desktop running Ubuntu.
 * Docker Desktop
 * iTerm 2
-* Adobe Creative Cloud
-* JetBrains (IntelliJ, RubyMine, GoLand, etc)
 * VS Code
 
-## Me away from GitLab
+## Me away from work
 
 Away from GitLab I am a gamer.  I do Console and PC Gaming as well as run a D&D campaighn for 10 players.  I don't drink but I like nothing more than spending an evening in the pub talking and socialising with friends.
 
@@ -171,7 +147,7 @@ and many many more.
 
 My personal machines are:
 
-* M1 Max MacBook Pro 16" (Same as my GitLab Machine)
+* 16" M1 MacBook Pro (M1 Max, 32GB RAM, 1TB Hard Disk)
 * Razer Blade 16 (4090 GPU, dual booting Windows and Linux) - New and Shiny
 * Custom gaming rig (11th Gen Intel Core-i9 CPU, Nvidia 3080Ti GPU, 64GB Ram, 2x 2TB SSDs, Dualbooting Windows and Linux) with all the RGB in an Asus ROG Strix Helios case.  
 
