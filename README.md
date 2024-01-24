@@ -4,7 +4,7 @@ Full Stack Developer
 
 ## Introductions
 
-Hi, my name is Jamie and by trade I am a full stack developer with a passion for opensource development.  Currently I am looking for work and muy profile is here to show projects I am working on while I find something new.  It's also helpful to be able to contribute to upstream opensource projects.
+Hi, my name is Jamie and by trade, I am a full-stack developer with a passion for open-source development.  Currently, I am looking for work and my profile is here to show projects I am working on while I find something new.  It's also helpful to be able to contribute to upstream open-source projects.
 
 ## Connect with me
 
@@ -12,11 +12,11 @@ Hi, my name is Jamie and by trade I am a full stack developer with a passion for
 
 ## About Me
 
-I am a punky goth metal head (The mohawk is real)  Out and about I am mostly found wearing Kilts and Big Boots.  I am a passionate technologist with a passion for Software Development and Open Source.  I am frequently trying to expand my knoweldge and develop my skills which makes being a full stack developer a good fit for me.
+I am a punky goth metalhead (The mohawk is real)  Out and about I am mostly found wearing Kilts and Big Boots.  I am a passionate technologist with a passion for Software Development and Open Source.  I am frequently trying to expand my knowledge and develop my skills which makes being a full-stack developer a good fit for me.
 
 ## My skills
 
-My skillset is certainly eclectic but lends itself strongly to the technical.  I'm a versitile software developer who is as comfortable working on Frontend systems as Backend systems.  I have a resonable amount of DevOps skills thrown in to the mix and can work my way round a database if I need to.  I have working understanding of the following languages:
+My skillset is certainly eclectic but lends itself strongly to the technical.  I'm a versatile software developer who is as comfortable working on Frontend systems as Backend systems.  I have a reasonable amount of DevOps skills thrown into the mix and can work my way around a database if I need to.  I have a working understanding of the following languages:
 
 <table>
    <tbody>
@@ -48,43 +48,43 @@ My skillset is certainly eclectic but lends itself strongly to the technical.  I
    </tbody>
 </table>
 
-I like to say I am a jack of all trades and a master of none.  This makes me a generalist and my greatest asset is that I am quick learner and I learn by doing.  It also means that when I am working on a project I can consider the best tool or language for a job rather than having a "this languague is the only way" mentality. 
+I like to say I am a jack of all trades and a master of none.  This makes me a generalist and my greatest asset is that I am a quick learner and I learn by doing.  It also means that when I am working on a project I can consider the best tool or language for a job rather than having a "this language is the only way" mentality. 
 
 ## Previous work
 
-Really my CV can be viewed on my [LinkedIn Profile](https://www.linkedin.com/in/jamiemaynard/) but I thought it was helpful to have a bit of a technical view of previous work and previous projects I have worked on.
+My CV can be viewed on my [LinkedIn Profile](https://www.linkedin.com/in/jamiemaynard/) but I thought it was helpful to have a bit of a technical view of previous work and previous projects I have worked on.
 
 ### GitLab
 
-At GitLab I worked as the sole Handbook engineer.  The work consisted of looking after their legacy handbook repo, their internal handbook and new public handbook as well as migrating their legacy handbook content and ruby code to their new public handbook site.  This included migrating all the cotnent and converting all the Ruby code into Go templating code, building new CI/CD pipelines and automating all the things. 
+At GitLab, I worked as the sole Handbook engineer.  The work consisted of looking after their legacy handbook repo, their internal handbook and new public handbook as well as migrating their legacy handbook content and ruby code to their new public handbook site.  This included migrating all the content and converting all the Ruby code into Go templating code, building new CI/CD pipelines and automating all the things. 
 
 ### Government Digital Service (GDS)
 
-At GDS I worked on Verify and the subsquent OneLogin for Government programs.  For the most part my skills at GDS focused on Ruby and Java as their stack tended to be Ruby on the Frontend and Java on the Backend especially on Verify.  In the OneLogin for Governement project this switched to a TypeScript frontend with a mix of TypeScript and Java on the Backend.  I advocated hard to use the best languague for the target platform.  Java and AWS Lambda aren't the easiest or fastest of bedfellows so my teams Lambda projects were written in TypeScript.
+At GDS I worked on Verify and the subsequent OneLogin for Government programs.  For the most part, my skills at GDS focused on Ruby and Java as their stack tended to be Ruby on the Frontend and Java on the Backend, especially on Verify.  In the OneLogin for Government project, this switched to a TypeScript frontend with a mix of TypeScript and Java on the Backend.  I advocated hard to use the best language for the target platform.  Java and AWS Lambda aren't the easiest or fastest of bedfellows so my team's Lambda projects were written in TypeScript.
 
 My other work at GDS covered testing content for accessibility issues and trying to get those issues rectified.
 
-GDS also threw me in at the deepend when it came to Ruby.  I came as a Java Developer, my first project was a ruby project where I had to workout how to integrate Rails with AWS Cognito for User Managment the inital output form that work is still in my GitHub.
+GDS also threw me in at the deep end when it came to Ruby.  I came as a Java Developer, my first project was a ruby project where I had to work out how to integrate Rails with AWS Cognito for User management the initial output form that work is still in my GitHub.
 
 ### Other Work
 
-Prior to GDS and GitLab I've worked for Consultancy and outsourcing firm CGI as a Java Developer, EMEA Duracell Licensee PSA Parts (London) and Cory Brothers shipping.
+Before GDS and GitLab I worked for Consultancy and outsourcing firm CGI as a Java Developer, EMEA Duracell Licensee PSA Parts (London) and Cory Brothers shipping.
 
 ### University and further back
 
-I attended Univeristy as a mature student in my early 30's and studied a computer science degree which was awesome fun.  I achieved what my persoanl tutor in my first year said wasn't possible when I walked away with a frist class honours degree.
+I attended university as a mature student in my early 30's and studied for a computer science degree which was awesome fun.  I achieved what my personal tutor in my first year said wasn't possible when I walked away with a first class honours degree.
 
-I had a life prior to uni  which was mostly non-technical but I can say I have also done training and development, training co-ordinator work, emergency response call handling, customer service and insurance sales.  This built up soft skills which I still rely on now.
+I had a life before uni which was mostly non-technical but I can say I have also done training and development, training coordinator work, emergency response call handling, customer service and insurance sales.  This built up soft skills which I still rely on now.
 
 ## Working with me
 
-I'm based in the UK and as such my working hours are anywhere between 8am and 7pm.  I have marked time out in my calendar for Breakfast, Lunch, Dinner, the Gym and Swimming.  Unless I am out I'll normally accept meetings anytime Monday - Friday up until 9:00pm.  You can use the [Calendarly link](https://calendly.com/j-maynard/30min) to drop a meeting in my Google Calendar.
+I'm based in the UK and as such my working hours are anywhere between 8 am and 7 pm.  I have marked time out in my calendar for Breakfast, Lunch, Dinner, the Gym and Swimming.  Unless I am out I'll normally accept meetings anytime Monday - Friday up until 9:00 pm.  You can use the [Calendarly link](https://calendly.com/j-maynard/30min) to drop a meeting in my Google Calendar.
 
 I can be found on Slack (Out in Tech, GDS Alumni and Queercode) and on Discord.
 
 I enjoy pairing when the opportunity presents and I don't mind the odd meeting to get things resolved quickly.
 
-I am not affraid to say I don't know.  However if I don't know do expect me to go off and try to work out the answer.  I am a little chaotic and a little loud.  If I am to loud just let me know.  Unusally for a software developer I sit on the extraverted side of things.
+I am not afraid to say I don't know.  However, if I don't know do expect me to go off and try to work out the answer.  I am a little chaotic and a little loud.  If I am too loud just let me know.  Unusually for a software developer, I sit on the extraverted side of things.
 
 ## My Working Setups
 
@@ -93,11 +93,11 @@ I have 3 MacBook Pros
 * 13" M1 MacBook Pro (M1, 16GB Ram, 256GB Hard Disk)
 * 16" M1 MacBook Pro (M1 Max, 32GB RAM, 512GB Hard Disk)
 
-"2 Laptops!?  Why?!" - I hear you cry.  Well it just happened for a start but actually I have found proper utility in having each of them.
+"2 Laptops!?  Why?!" - I hear you cry.  Well, it just happened for a start but I have found proper utility in having each of them.
 
-I use the 13" Pro for travelling, working away from home and often carrying around the house.  I love the protability of this little machine.  Its not a powerhouse but it does a good job when I am on the go.  I also carry with me a [YubiKey 5c NFC FIP](https://www.yubico.com/gb/product/yubikey-5c-nfc-fips/), a USB-C Multiport Hub, Magic Mouse and a 60W MacBook Pro Charger, in a very small bag.
+I use the 13" Pro for travelling, working away from home and often carrying around the house.  I love the portability of this little machine.  It's not a powerhouse but it does a good job when I am on the go.  I also carry with me a [YubiKey 5c NFC FIP](https://www.yubico.com/gb/product/yubikey-5c-nfc-fips/), a USB-C Multiport Hub, a Magic Mouse and a 60W MacBook Pro Charger, in a very small bag.
 
-Now for my main machine... For that I use the 16" Pro with 512GB Hard Disk for my Desk as my main work machine hooked up to 3 32" 4K Monitors on a sit/stand desk. The rest of my desk setup is as follow: 
+Now for my main machine... For that, I use the 16" Pro with 512GB Hard Disk for my Desk as my main work machine is hooked up to 3 32" 4K Monitors on a sit/stand desk. The rest of my desk setup is as follows: 
 
 - [Keychrone Q1](https://www.keychron.uk/products/keychron-q1-qmk-custom-mechanical-keyboard-iso-layout-collection) 
 - [Logitech MX Master 3S](https://www.logitech.com/en-gb/products/mice/mx-master-3s-mac-bluetooth-mouse.910-006572.html). 
@@ -126,18 +126,18 @@ My current IDE of Choice is [Nova by Panic](https://nova.app/) or [NeoVim](https
 
 ## Me away from work
 
-Away from GitLab I am a gamer.  I do Console and PC Gaming as well as run a D&D campaighn for 10 players.  I don't drink but I like nothing more than spending an evening in the pub talking and socialising with friends.
+Away from GitLab I am a gamer.  I do Console and PC Gaming as well as run a D&D campaign for 10 players.  I don't drink but I like nothing more than spending an evening in the pub talking and socialising with friends.
 
-I enjoy swimming and Gym but equally I also have a love of Cake.  More an addiction to Cake.  I have been clean of Cake for 2 days at the time of writing.... oh look... Cake!
+I enjoy swimming and Gym but equally I also have a love of Cake.  More of an addiction to Cake.  I have been clean of Cake for 2 days at the time of writing.... oh look... Cake!
 
-I am one of those punk/metal-head types who loves wearing Kilts.  So normally when I am out you'll find me wearing a kilt, sporan and big boots.
+I am one of those punk/metal-head types who loves wearing Kilts.  So normally when I am out you'll find me wearing a kilt, sporran and big boots.
 
 I am a big Anime and Manga fan.  Some of my favourite Anime/Mangas are:
 
-* Fullmetal Alchimest
+* Fullmetal Alchemist
 * Fairytail
 * Seven Deadly Sins
-* The Devil is a Part timeer
+* The Devil is a Part-timer
 * Splatoon
 * Demon Slayer
 
@@ -155,9 +155,9 @@ My consoles are:
 
 * Nintendo Switch OLED
 * SteamDeck (512GB Model)
-* XBox Series X (unloved and seldom used)
+* Xbox Series X (unloved and seldom used)
 
-Top PC games I can normally be found playing include World of Warcraft, Minecraft, Diablo 4 and Diablo 3.  On the console my XBox is mostly unloved favouring Switch Games like Cult of the Lamb, Splatoon, Zelda and Pokemon.
+Top PC games I can normally be found playing include World of Warcraft, Minecraft, Diablo 4 and Diablo 3.  On the console, my XBox is mostly unloved favouring Switch Games like Cult of the Lamb, Splatoon, Zelda and Pokemon.
 
 The kit that makes up the rest of My Home Rig is:
 
@@ -176,7 +176,7 @@ As mentioned when I am on the go I have my 13" GitLab MacBook Pro and I'll choos
 
 ## Personality Type
 
-My [16 Personality test result](https://www.16personalities.com/free-personality-test/dc173703acad4) are as follows:
+My [16 Personality test results](https://www.16personalities.com/free-personality-test/dc173703acad4) are as follows:
 
 * **Personality type:** Entertainer (ESFP-T)
 * **Traits:**
