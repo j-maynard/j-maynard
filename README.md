@@ -148,12 +148,12 @@ and many many more.
 My personal machines are:
 
 * 16" M1 MacBook Pro (M1 Max, 32GB RAM, 1TB Hard Disk)
-* Razer Blade 16 (4090 GPU, dual booting Windows and Linux) - New and Shiny
-* Custom gaming rig (11th Gen Intel Core-i9 CPU, Nvidia 3080Ti GPU, 64GB Ram, 2x 2TB SSDs, Dualbooting Windows and Linux) with all the RGB in an Asus ROG Strix Helios case.  
+* Razer Blade 16 (4090 GPU, dual booting Windows and Linux)
+* Custom gaming rig (11th Gen Intel Core-i9 CPU, Nvidia 5080 GPU, 64GB Ram, 2x 2TB SSDs, Dualbooting Windows and Linux) with all the RGB in an Asus ROG Strix Helios case.  
 
 My consoles are:
 
-* Nintendo Switch OLED
+* Nintendo Switch 2
 * SteamDeck (512GB Model)
 * Xbox Series X (unloved and seldom used)
 
@@ -172,7 +172,7 @@ The kit that makes up the rest of My Home Rig is:
 
 ### Rig on the Go
 
-As mentioned when I am on the go I have my 13" GitLab MacBook Pro and I'll choose between either my own MacBook Pro or my Razer Blade (favour the blade at the moment).  I also carry a 15.6" external 4k monitor and a Razer Naga mouse.
+As mentioned when I am on the go I have my 13" MacBook Pro and I'll choose between either my own MacBook Pro or my Razer Blade (favour the blade at the moment).  I also carry a 15.6" external 4k monitor and a Razer Naga mouse.
 
 ## Personality Type
 
