@@ -8,7 +8,7 @@ Hi, my name is Jamie and by trade, I am a full-stack developer with a passion fo
 
 ## Connect with me
 
-<a href="https://github.com/j-maynard"><img src="https://img.shields.io/badge/-GitHub-000000?&style=plastic&logo=GitHub&logoColor=white" height="25" style="height: 25px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/jamiemaynard/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=plastic&logo=LinkedIn&logoColor=white" height="25" style="height: 25px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:punkyideas@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?&style=plastic&logo=Gmail&logoColor=white" height="25" style="height: 25px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="[https://calendly.com/j-maynard/30min](https://calendly.com/toxictigger/30min)"><img src="https://img.shields.io/badge/Schedule a Meeting-4285F4?&style=plastic&logo=Google Calendar&logoColor=white" height="25" style="height: 25px" /></a>
+<a href="https://github.com/j-maynard"><img src="https://img.shields.io/badge/-GitHub-000000?&style=plastic&logo=GitHub&logoColor=white" height="25" style="height: 25px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/jamiemaynard/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=plastic&logo=LinkedIn&logoColor=white" height="25" style="height: 25px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:punkyideas@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?&style=plastic&logo=Gmail&logoColor=white" height="25" style="height: 25px" /></a>
 
 ## About Me
 
